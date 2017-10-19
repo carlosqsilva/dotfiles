@@ -1,0 +1,5 @@
+mkdir nvim
+shell pwd
+delete
+delete 
+open_with 

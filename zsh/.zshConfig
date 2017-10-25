@@ -63,3 +63,10 @@ alias neofetch="neofetch --disable model resolution wm theme gpu kernel term_fon
 alias vi="nvim"
 alias porn="mpv 'http://www.pornhub.com/random'"
 
+# Git Alias
+alias gs="git status -sb"
+alias gaa="git add ."
+alias gaf="git add"
+alias gc="git commit -m"
+alias gp="git push origin"
+alias gr="git remote add origin"

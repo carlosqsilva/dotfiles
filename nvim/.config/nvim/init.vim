@@ -30,7 +30,9 @@ Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'altercation/vim-colors-solarized'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
-" Plug 'bling/vim-bufferline'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-polyglot'
+Plug 'scrooloose/nerdcommenter'
 
 call plug#end()
 let g:deoplete#enable_at_startup = 1
@@ -77,7 +79,7 @@ set wildmode=longest:full,full
 
 " Move to the next buffer
 nmap <leader>l :bnext<CR>
-nmap <leader>bq :bp <BAR> bd #<CR>
+nmap <leader>bc :bp <BAR> bd #<CR>
 
 " " Copy to clipboard
 vnoremap  <leader>y  "+y

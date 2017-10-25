@@ -60,4 +60,6 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 # Customize to your needs...
 alias ytmp3="cd ~/Música && youtube-dl --extract-audio --audio-format mp3"
 alias neofetch="neofetch --disable model resolution wm theme gpu kernel term_font --os_arch off --w3m --source wallpaper --loop" 
-alias v="nvim"
+alias vi="nvim"
+alias porn="mpv 'http://www.pornhub.com/random'"
+

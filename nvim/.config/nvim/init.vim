@@ -31,7 +31,7 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
 Plug 'tpope/vim-surround'
-Plug 'tpope/vim-polyglot'
+Plug 'sheerun/vim-polyglot'
 Plug 'scrooloose/nerdcommenter'
 
 call plug#end()

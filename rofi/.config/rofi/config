@@ -15,6 +15,7 @@ rofi.color-urgent: #002b37, #da4281, #003643, #008ed4, #890661
 ! Separator style (none, dash, solid)
 rofi.separator-style:                none
 
+rofi.show-icons: true
 rofi.hide-scrollbar: true
 rofi.width: 30
 rofi.columns: 1

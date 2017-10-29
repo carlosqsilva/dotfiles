@@ -1,6 +1,7 @@
 # My .dotfiles
 
 <img src="./screenshot.jpg" alt="My Desktop"></img>
+[Download Wallpaper](https://alpha.wallhaven.cc/wallpaper/435648)
 
 ## Features
 - Git aliases

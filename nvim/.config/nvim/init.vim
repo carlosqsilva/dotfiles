@@ -1,6 +1,4 @@
-if has('vim_starting')
-  set nocompatible               " Be iMproved
-endif
+set nocompatible
 
 let vimplug_exists=expand('~/.config/nvim/autoload/plug.vim')
 

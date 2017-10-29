@@ -2,7 +2,7 @@
 
 # Install all my regular programs
 echo "This is Script will install and config the following software:"
-echo "termite tint2 nvim vim node npm zsh ranger stow adapta-breath-theme"
+echo "termite tint2 nvim vim node npm zsh ranger stow plank adapta-breath-theme"
 sudo pacman -S --noconfirm termite tint2 nvim vim git node npm zsh ranger stow
 
 echo "Cloning Prezto config Framework"

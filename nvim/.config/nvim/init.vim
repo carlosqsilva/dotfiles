@@ -57,6 +57,7 @@ let mapleader=","
 set number
 set relativenumber
 set ruler
+set cursorline
 
 set ignorecase
 set smartcase

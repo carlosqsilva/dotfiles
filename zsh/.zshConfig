@@ -43,6 +43,8 @@ POWERLEVEL9K_BACKGROUND_JOBS_FOREGROUND='green'
 # Ranger Config
 RANGER_LOAD_DEFAULT_RC=FALSE
 
+export VISUAL=nvim
+
 # Termite New Window
 if [[ $TERM == xterm-termite ]]; then
   . /etc/profile.d/vte.sh

@@ -2,7 +2,7 @@
 ! ROFI Color theme
 ! ------------------------------------------------------------------------------
 ! Use extended color scheme
-rofi.color-enabled: true
+!rofi.color-enabled: true
 
 !                 'bg'     'border' 'separator'
 rofi.color-window: #002b37, #002b37, #003642

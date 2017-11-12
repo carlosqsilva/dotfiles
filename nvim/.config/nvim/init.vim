@@ -41,6 +41,7 @@ let g:airline#extensions#tabline#fnamemod = ':t'
 
 filetype plugin indent on
 syntax enable
+set background=dark
 colorscheme solarized
 
 " Basics
